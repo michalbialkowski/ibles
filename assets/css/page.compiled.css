@@ -28,6 +28,10 @@ body {
   background: #fff;
   min-height: -webkit-fill-available;
 }
+body #section__page {
+  max-width: 100vw;
+  overflow: hidden;
+}
 
 header,
 main,
