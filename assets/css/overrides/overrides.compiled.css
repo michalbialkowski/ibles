@@ -5,3 +5,7 @@
 .nooutline {
   outline: none !important;
 }
+
+.invert {
+  filter: invert(100%);
+}
