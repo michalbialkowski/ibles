@@ -1,0 +1,4 @@
+footer .svg *,
+header .svg * {
+  fill: #000;
+}

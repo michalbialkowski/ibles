@@ -11,45 +11,45 @@
 }
 
 .link-primary {
-  color: #008270;
+  color: #000;
 }
 .link-primary:hover, .link-primary:focus {
-  color: #00685a;
+  color: black;
 }
 
 .link-secondary {
-  color: #6c757d;
+  color: #000;
 }
 .link-secondary:hover, .link-secondary:focus {
-  color: #565e64;
+  color: black;
 }
 
 .link-success {
-  color: #198754;
+  color: #000;
 }
 .link-success:hover, .link-success:focus {
-  color: #146c43;
+  color: black;
 }
 
 .link-info {
-  color: #0dcaf0;
+  color: #000;
 }
 .link-info:hover, .link-info:focus {
-  color: #3dd5f3;
+  color: black;
 }
 
 .link-warning {
-  color: #ffc107;
+  color: #000;
 }
 .link-warning:hover, .link-warning:focus {
-  color: #ffcd39;
+  color: black;
 }
 
 .link-danger {
-  color: #dc3545;
+  color: #000;
 }
 .link-danger:hover, .link-danger:focus {
-  color: #b02a37;
+  color: black;
 }
 
 .link-light {
@@ -60,31 +60,31 @@
 }
 
 .link-dark {
-  color: #231F20;
+  color: #000;
 }
 .link-dark:hover, .link-dark:focus {
-  color: #1c191a;
+  color: black;
 }
 
 .link-lightgreen {
-  color: #32998B;
+  color: #000;
 }
 .link-lightgreen:hover, .link-lightgreen:focus {
-  color: #5bada2;
+  color: black;
 }
 
 .link-yellowgreen {
-  color: #7EA25B;
+  color: #000;
 }
 .link-yellowgreen:hover, .link-yellowgreen:focus {
-  color: #98b57c;
+  color: black;
 }
 
 .link-whitegreen {
-  color: #E5F4F1;
+  color: #f2f2f2;
 }
 .link-whitegreen:hover, .link-whitegreen:focus {
-  color: #eaf6f4;
+  color: whitesmoke;
 }
 
 .ratio {
@@ -478,27 +478,27 @@
 }
 
 .border-primary {
-  border-color: #008270 !important;
+  border-color: #000 !important;
 }
 
 .border-secondary {
-  border-color: #6c757d !important;
+  border-color: #000 !important;
 }
 
 .border-success {
-  border-color: #198754 !important;
+  border-color: #000 !important;
 }
 
 .border-info {
-  border-color: #0dcaf0 !important;
+  border-color: #000 !important;
 }
 
 .border-warning {
-  border-color: #ffc107 !important;
+  border-color: #000 !important;
 }
 
 .border-danger {
-  border-color: #dc3545 !important;
+  border-color: #000 !important;
 }
 
 .border-light {
@@ -506,19 +506,19 @@
 }
 
 .border-dark {
-  border-color: #231F20 !important;
+  border-color: #000 !important;
 }
 
 .border-lightgreen {
-  border-color: #32998B !important;
+  border-color: #000 !important;
 }
 
 .border-yellowgreen {
-  border-color: #7EA25B !important;
+  border-color: #000 !important;
 }
 
 .border-whitegreen {
-  border-color: #E5F4F1 !important;
+  border-color: #f2f2f2 !important;
 }
 
 .border-white {
